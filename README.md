@@ -6,4 +6,4 @@ Tensorflow2 implementatio of an unsupervised [Adverserial Autoencoder](https://a
 ### MNIST test set clustering
 Using T-SNE
 
-<img src="images/tsne_viz_onehot.png" width="800">
+<img src="images/tsne_viz.png" width="800">
